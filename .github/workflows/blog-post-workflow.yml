@@ -15,3 +15,4 @@ jobs:
         with:
           max_post_count: "6"
           feed_list: "https://medium.com/feed/dipien"
+          readme_path: profile/README.md

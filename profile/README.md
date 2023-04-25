@@ -1,5 +1,5 @@
 
-### Latest Blog posts
+## Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [30 ideas to reduce your Android App Startup times](https://blog.dipien.com/30-ideas-to-reduce-your-android-app-startup-times-5cbfc32fb1f7?source=rss----37b2d1091422---4)
 - [10 ideas to reduce your APK size [Part III]](https://blog.dipien.com/10-ideas-to-reduce-your-apk-size-part-iii-376a69f65da3?source=rss----37b2d1091422---4)
